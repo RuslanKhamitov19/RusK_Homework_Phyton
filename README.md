@@ -1,1 +1,1 @@
-# RusK_Homework_Phyton
+# RusK_Homework_Pyhton
